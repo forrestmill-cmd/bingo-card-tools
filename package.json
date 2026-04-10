@@ -1,0 +1,28 @@
+{
+  "name": "bingo-card-tools",
+  "version": "1.0.0",
+  "description": "Lightweight utilities for generating, shuffling, and printing custom bingo cards",
+  "main": "bingo.js",
+  "scripts": {
+    "test": "node test.js",
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "bingo",
+    "bingo-card",
+    "bingo-generator",
+    "card-generator",
+    "game",
+    "party",
+    "classroom",
+    "education",
+    "printable"
+  ],
+  "author": "Forrest Miller",
+  "license": "MIT",
+  "homepage": "https://bingwow.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forrestmill-cmd/bingo-card-tools"
+  }
+}
